@@ -1,0 +1,26 @@
+
+
+.site-layout-content {
+  padding: 24px;
+ min-height: 240px;
+  background: #fff;
+}
+
+#root {
+  height: 100%;
+  width: 100%;
+  background: #f0f0f0;
+}
+
+.site-card-wrapper {
+  padding: 30px;
+  background: #ececec;
+}
+
+.ant-layout-footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+}
